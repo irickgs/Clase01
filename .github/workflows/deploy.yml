@@ -13,4 +13,5 @@ jobs:
             - run: echo "Generar binario"
             - run: echo "Publicar version"
             - run: echo "publicar version en master"
+            - run: echo "Hacemos deploy en produccion -> main"
             
